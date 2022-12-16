@@ -3,6 +3,3 @@ spring:
       url: jdbc:mysql://142.93.195.23:3306/db_pargasys
       username: root
       password: LaClaveEsGyp2018
-jwt:
-  secret: secret
-  exp: 3600
